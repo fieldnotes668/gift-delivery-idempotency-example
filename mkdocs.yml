@@ -1,0 +1,10 @@
+site_name: Gift Delivery Idempotency Example
+site_description: A small reference for retry-safe digital gift delivery requests.
+site_url: https://gift-delivery-idempotency-example.readthedocs.io/
+repo_url: https://github.com/fieldnotes668/gift-delivery-idempotency-example
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Request contract: contract.md
+  - Failure and recovery cases: failure-cases.md
