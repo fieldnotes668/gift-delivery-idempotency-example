@@ -8,3 +8,4 @@ nav:
   - Overview: index.md
   - Request contract: contract.md
   - Failure and recovery cases: failure-cases.md
+  - Worker retry budget: retry-budget.md
